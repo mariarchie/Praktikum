@@ -1,0 +1,16 @@
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\practicum.exe
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\practicum.deps.json
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\practicum.runtimeconfig.json
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\practicum.dll
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\ref\practicum.dll
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\bin\Debug\net6.0\practicum.pdb
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.GlobalUsings.g.cs
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.AssemblyInfo.cs
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.dll
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\ref\practicum.dll
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.pdb
+C:\Users\Админ\Documents\Marianna\seminari C#\4\practicum\obj\Debug\net6.0\practicum.genruntimeconfig.cache
