@@ -7,14 +7,14 @@
 // 2  больше среднего арифметического элементов A
 // 3  чётные
 
-int[] A = new int[10];
-int[] B = new int[10]; // условие 1
-int[] C = new int[10]; // условие 2
-int[] D = new int[10]; // условие 3
+int[] A = new int[new Random().Next(1, 100)];
+int[] B = new int[A.Length]; // условие 1
+int[] C = new int[A.Length]; // условие 2
+int[] D = new int[A.Length]; // условие 3
 int index = 0;
 
 // Заполняем массив A
-while (index < 10)
+while (index < A.Length)
 {
     A[index] = new Random().Next(10, 100); //[10,99]
     index++;
@@ -24,7 +24,7 @@ index = 0;
 
 // Печатаем массив
 Console.WriteLine("Массив A");
-while (index < 10)
+while (index < A.Length)
 {
     Console.WriteLine(A[index]);
     index++;
@@ -37,7 +37,7 @@ Console.WriteLine("Массив B");
 index = 1;
 int currentEl = A[0];
 Console.WriteLine(currentEl);
-while (index < 10)
+while (index < A.Length)
 {
     if (A[index] > currentEl)
     {
@@ -59,7 +59,7 @@ Console.WriteLine();
 Console.WriteLine("Массив С");
 //Заполнение и вывод массива С элементами, меньшими или равными среднего арифметического элементов массива А
 index = 0;
-while (index < 10)
+while (index < A.Length)
 {
     if (A[index] <= mid)
     {
@@ -73,7 +73,7 @@ Console.WriteLine();
 Console.WriteLine("Массив D");
 //Заполнение и вывод массива D нечетными элементами массива A
 index = 0;
-while (index < 10)
+while (index < A.Length)
 {
     if (A[index] % 2 == 1)
     {
